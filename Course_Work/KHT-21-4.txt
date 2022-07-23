@@ -1,0 +1,7 @@
+Max,11-A,yes,Intel Core i9-12900k,3700,1024,0,2000.5,27,4000,300,wireless,high,180,wired,mechanic,90,120,wireless,optical,3,50
+Nikita,10-A,no,Intel Core i5-11400,3400,512,0,2060,27,4000,300,wireless,high,150,wireless,mechanic,70,130,wireless,mechanic,3,110
+Lesha,9-A,yes,Intel Core i9-12900k,3400,1024,1,2500,27,4000,300,wireless,low,110,wired,mimbran,75,20,wired,optical,3,55
+Alex,8-A,no,Intel Core i7-11700k,3200,512,0,1000,27,4000,300,wireless,mid,120,wireless,mechanic,70,150,wired,optical,3,22
+Kirill,7-A,yes,Intel Core i9-12900k,2800,1024,1,2000,27,4000,300,wireless,high,115,wireless,mimbran,90,120,wireless,optical,3,30
+Sveta,6-A,yes,Intel Core i5-10400,3700,1024,0,1300.22,27,4000,300,wireless,mid,180,wired,mechanic,70,120,wired,mechanic,3,40
+Vera,6-A,yes,Intel Core i5-10400,3700,1024,0,1300.22,27,4000,300,wireless,mid,180,wired,mechanic,70,120,wired,mechanic,3,40

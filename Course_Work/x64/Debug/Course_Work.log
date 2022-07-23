@@ -1,0 +1,5 @@
+﻿  Course_Work.cpp
+  Menu.cpp
+  Создание кода...
+C:\Users\Ivan\source\repos\Course_Work\Course_Work\Container.h(56): warning C4715: Container<ComputerClass>::operator[]: значение возвращается не при всех путях выполнения
+  Course_Work.vcxproj -> C:\Users\Ivan\source\repos\Course_Work\x64\Debug\Course_Work.exe
